@@ -1,0 +1,48 @@
+body{
+  background-color:#222831;
+  font-family:'Merriweather',serif;
+}
+h1 {
+  font-size:35px;
+  color:#FF5959;
+  font-family:'Sacramento',cursive;
+}
+h3{
+  color:#FF5959;
+  font-family:'Montserrat',sans-serif;
+}
+li{
+    color:red;
+      font-family: courier;
+}
+p{
+  color:red;
+  font-family: courier;
+}
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  width:5%;
+}q
+.average{
+  font-size:20px;
+  text-align:center;
+  color:blue;
+}
+.javoxir{
+  font-size:20px;
+  text-align:center;
+  color:blue;
+}
+.anvarbek{
+  font-size:20px;
+  text-align:center;
+  color:blue;
+}
+.nematjon{
+  font-size:20px;
+  text-align:center;
+  color:blue;
+}
